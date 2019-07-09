@@ -4,7 +4,7 @@ This Tetris game was created with the Android Studio environment, written in Jav
 
 https://www.dropbox.com/s/n76zsjeop5rhjqr/tetris_android_project.zip?dl=0
 
-I followed the work of the Github user _@v-grishechko_, and I adapted and extended the available code with the following features:
+I followed the work of the Github user _v-grishechko_, and I adapted and extended the available code with the following features:
 - Added a local database and a register/login system for users
 - Homepage menu 
 - Hall of Fame which outputs the highscores of all users registered in the database
