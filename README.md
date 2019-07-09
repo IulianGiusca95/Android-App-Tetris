@@ -1,10 +1,10 @@
 # Android App Tetris
 
-This Tetris game was created with the Android Studio environment, written in Java. Due to size limitations, the project has been uploaded on Dropbox, and is available for download at the link below:
+This Tetris game was created with the Android Studio environment, written in Java. The project was developed during my third year of studies, for the Android Development course. Due to size limitations, the project has been uploaded on Dropbox, and is available for download at the link below:
 
 https://www.dropbox.com/s/n76zsjeop5rhjqr/tetris_android_project.zip?dl=0
 
-I followed the work of the Github user _v-grishechko_, and i adapted and extended the available code with the following features:
+I followed the work of the Github user _v-grishechko_, and I adapted and extended the available code with the following features:
 - Added a local database and a register/login system for users
 - Homepage menu 
 - Hall of Fame which outputs the highscores of all users registered in the database
